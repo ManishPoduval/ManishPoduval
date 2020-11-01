@@ -17,9 +17,12 @@ Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me
 
 </div>
 
-<div align="center">
+<div >
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ManishPoduval&count_private=true&show_icons=true&include_all_commits=true)
+
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPoduval&hide=TeX&layout=compact)
 
 <!---
