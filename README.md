@@ -22,9 +22,9 @@ Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ManishPoduval&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPoduval&hide=TeX&layout=compact)
 
-<!-->
+<!---
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dseumo6kzvkt3ufcsikcx3rary&cover_image=true&theme=default)
-</-->
+--->
 
 </br>
 
