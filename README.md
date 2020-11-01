@@ -1,47 +1,41 @@
-### Hi there 👋
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! </h2>
+</div>
+
+<div align="center" width="50">
+
+</div>
+
+<div align="center">
 
 
-<p align="center" style="margin-top: -25px;">
-  <img src="https://komarev.com/ghpvc/?username=ManishPoduval" alt="Ritika-Das"/>
-</p>
   
-<h4>Welcome to my GitHub residence! 👋 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.</h4><br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ritika-das-ece/">
-    <img align="center" alt="Manish's Unique Badge" width="200px" src="https://img.shields.io/badge/LinkedIn-Ritika%20-blue.svg" />
-  </a> 
-</p>
-  
-### Now on Spotify, I'm listening to ... 
-  <p align="center"><img align="center" src="https://spotify.ritika-das.vercel.app/api/spotify" alt=" Not listening to Spotify right now (Advertisement)" width="550"/></p>
-  
-- 🔭 I’m currently working on xyz <nbsp>
-- 🌱 I’m currently building xyz <nbsp>
-- 📫 How to reach me: You can view my activity [here](https://www.linkedin.com/in/manishpoduval/), where I get to know an ounce more about topics I care for.<nbsp>
-- 😄 Pronouns: He/Him <nbsp>
-- ⚡ Fun fact: xyz <br>
+- 🏢 I love to teach, mentor and empower people. 
+- 🚀 Things I know:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript) ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI) ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+- ⚡️ Fun fact:  Pizza 🍕 and Pokemon's grab my attention
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManishPoduval&show_icons=true&theme=vue-dark" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPoduval&layout=compact&theme=radical" />
-</p>
+Fee free to <a href="mailto:manish@rootlearn.com"><b>email</b></a> me
+
+<i>Happy Coding!</i> 😊
+
+</div>
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishPoduval&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Manish'a Github Stats">
+
+</br>
 
 
-**Languages and Tools:** 
+---
+[![HitCount](http://hits.dwyl.com/ManishPoduval/ManishPoduval.svg)](http://hits.dwyl.com/ManishPoduval/ManishPoduval)
 
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
+<i>Follow me around the web:</i><br>
+
+
+<a href="https://www.linkedin.com/in/manishpoduval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/itspodu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://open.spotify.com/user/31dseumo6kzvkt3ufcsikcx3rary" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+</div>
+
