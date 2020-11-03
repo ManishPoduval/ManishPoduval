@@ -22,11 +22,14 @@ Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me
 
 <div >
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ManishPoduval&count_private=true&show_icons=true&include_all_commits=true)
-
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPoduval&hide=TeX&layout=compact)
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ManishPoduval&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ManishPoduval&theme=tokyonight">
+</p>
+</details>
 
 <!---
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dseumo6kzvkt3ufcsikcx3rary&cover_image=true&theme=default)
