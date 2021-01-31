@@ -35,16 +35,6 @@ Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me
 </p>
 </details>
 
-<details open>
- <summary> 🎵 <b>I'm currently listening to </b>: </summary>
-<br>
-<p align = "center">
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dseumo6kzvkt3ufcsikcx3rary&cover_image=true&theme=default)
-
-</p>
-</details>
-
 
 
 
