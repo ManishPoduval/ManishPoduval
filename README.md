@@ -19,7 +19,9 @@
 
 - ⚡️ Fun fact:  Pizza 🍕,  Pokemon's and JavaScript grab my attention (In that order)
 
-Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me 
+Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me!
+
+Looking for my age ? Solve <a href="https://age-of-manish.herokuapp.com/" target="_blank">this</a> 
 
 </div>
 
@@ -50,7 +52,7 @@ Fee free to <a href="mailto:manish@rootlearn.com"><b>connect</b></a> with me
 
 <a href="https://www.linkedin.com/in/manishpoduval/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/itspodu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/31dseumo6kzvkt3ufcsikcx3rary" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
 </div>
 
 
