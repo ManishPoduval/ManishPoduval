@@ -11,7 +11,7 @@
 
 <div>
  
-- 🏢 I teach coding. 
+- 🏢 I teach coding, sometimes!
 - 🚀 Things I know: The mass of a black hole! 
 - Some more cheecky description here! Some more cheecky description here!
 - ⚡️ Fun fact:  Pizza's 🍕,  Pokemon's and JavaScript grab my attention (In that order)
