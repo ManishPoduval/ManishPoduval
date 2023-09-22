@@ -19,9 +19,6 @@
 
 Fee free to <a href="mailto:manupodu@gmail.com"><b>connect</b></a> with me!
 
-Looking for my age ? Solve <a href="https://age-of-manish.herokuapp.com/" target="_blank">this</a> 
-<br>
-More detail about me <a href="https://manishpoduval.com/" target="_blank"> here </a>
 
 </div>
 
