@@ -17,7 +17,7 @@
 - ⚡️ Fun fact:  Pizza's 🍕,  Pokemon's and JavaScript grab my attention (In that order)
 - Some more cheecky description here! Some more cheecky description here!
 
-Fee free to <a href="mailto:manupodu@gmail.com"><b>connect</b></a> with me!
+Fee free to <a href="mailto:mp@theopenbootcamp.com"><b>connect</b></a> with me!
 
 
 </div>
